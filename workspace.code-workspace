@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "boolean-uk-html-spotify",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../Downloads/spotifytemplate/assets/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "boolean-uk-html-spotify"
+	}
+}
